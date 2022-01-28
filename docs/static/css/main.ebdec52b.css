@@ -1,0 +1,2 @@
+*{font-family:Helvetica,Arial,sans-serif}body{padding:60px}input{color:grey;font-size:1.2rem;width:100%}.container{padding:0}.card-grid{grid-gap:2em;display:grid;gap:2em;grid-auto-flow:dense;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr))}.card{align-items:center;border:1px solid gray;border-radius:6px;display:flex;flex-direction:column;overflow:hidden}.card p{padding:5px;text-align:center}.card img{max-height:170px}
+/*# sourceMappingURL=main.ebdec52b.css.map*/
